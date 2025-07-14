@@ -1,0 +1,33 @@
+/* .container{
+  padding: 20px;
+}
+h1, h2 {
+  text-align: center;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 0 auto;
+  gap: 10px;
+}
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+button {
+  margin-right: 5px;
+} */
